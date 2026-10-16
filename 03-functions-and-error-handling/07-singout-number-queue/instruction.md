@@ -1,0 +1,1 @@
+Print each singer with their number, starting at 1 (hint: you can do math inside of an f string).
