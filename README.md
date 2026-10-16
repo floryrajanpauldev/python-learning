@@ -4,5 +4,6 @@ This repository contains my Python learning notes, examples, exercises, and chal
 
 ## Learning Resources
 
-* **Scrimba Python Course** — [Main learning course](https://scrimba.com/learn-python-c03) 
+* **Scrimba Python Course** — [Main learning course](https://scrimba.com/learn-python-c03/)
 * **Scrimba Docs** — [Documentation and reference material](https://docs.scrimba.com/python/what-is-python#what-is-python)
+
