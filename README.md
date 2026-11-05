@@ -11,6 +11,7 @@ This repository contains my Python learning notes, examples, exercises, and chal
 ### 2. Harvard University – CS50P
 - **Course:** [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/)
 - **Course Materials:** Lectures, problem sets, exercises, and additional Python concepts.
+https://www.youtube.com/watch?v=1yTDeXbBBiA&list=PLDVrhnY7hFVoA0N5NhRA9lPur5dxXBujy&index=7
 
 ### 3. Official Python Documentation
 
