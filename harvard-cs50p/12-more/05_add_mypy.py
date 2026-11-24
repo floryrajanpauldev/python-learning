@@ -1,0 +1,6 @@
+def add(a: int, b: int) -> int:
+    return a + b
+
+result: int = add(10, 20)
+#result = add(10, "20") passing string "20" will not be allowed
+print(result)
